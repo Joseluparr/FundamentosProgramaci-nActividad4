@@ -34,7 +34,7 @@ Este fue uno de los ejercicios más completos. Usé un formulario HTML y JavaScr
 
 Utilicé un contador para saber cuántas facturas se habían ingresado, y desactivé el botón cuando llegamos a 5. Este ejercicio me ayudó a integrar el formulario con la lógica del programa y a trabajar con eventos.
 
-Nota: En este ejercicio al parecer no queda funcionando la ejecución despues de colocar valores me di cuenta al ejecutarlo durante la ejecución pero buscando varias soluciones y aplicandolas no encontre cual fue el error revise con el cache del explorador cambiando el codigo pero finalmente no se pudo ejecutar
+Nota: En este ejercicio al parecer no queda funcionando la ejecución despues de colocar valores me di cuenta al ejecutarlo no daba ningun valor en las casillas facturación, facturación total y litros pero buscando varias soluciones y aplicandolas no encontre cual fue el error revise con el cache del explorador cambiando el codigo pero finalmente no se pudo ejecutar
 
 Ejercicio8
 
