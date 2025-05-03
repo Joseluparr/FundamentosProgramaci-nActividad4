@@ -34,6 +34,8 @@ Este fue uno de los ejercicios más completos. Usé un formulario HTML y JavaScr
 
 Utilicé un contador para saber cuántas facturas se habían ingresado, y desactivé el botón cuando llegamos a 5. Este ejercicio me ayudó a integrar el formulario con la lógica del programa y a trabajar con eventos.
 
+Nota: En este ejercicio al parecer no queda funcionando la ejecución despues de colocar valores me di cuenta al ejecutarlo durante la ejecución pero buscando varias soluciones y aplicandolas no encontre cual fue el error revise con el cache del explorador cambiando el codigo pero finalmente no se pudo ejecutar
+
 Ejercicio8
 
 Primero pedí cuántos sueldos se iban a ingresar y generé dinámicamente los campos de entrada. Luego, al hacer clic en calcular, obtuve el sueldo máximo con una comparación simple. Este ejercicio me enseñó a generar inputs dinámicamente y a manejar datos desde varios campos al mismo tiempo.
