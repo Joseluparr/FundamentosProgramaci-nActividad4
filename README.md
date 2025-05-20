@@ -184,6 +184,7 @@ Primero pedí cuántos sueldos se iban a ingresar y generé dinámicamente los c
 Además, desarrollé un pequeño contador que iba del 00000 al 99999, reemplazando cualquier número 3 por la letra E. Fue una manera interesante de trabajar con cadenas y formateo.
 
 Codigo del ejericio:
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
